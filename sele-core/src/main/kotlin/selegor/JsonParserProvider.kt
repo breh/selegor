@@ -1,0 +1,4 @@
+package selegor
+
+interface JsonParserProvider {
+}
